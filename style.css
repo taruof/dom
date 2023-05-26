@@ -1,0 +1,41 @@
+img{
+width: 300px;
+height: 300px;
+}
+
+.shirt1{
+    width: 550px ;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.shirt2{
+    width: 550px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.shirt3{
+    width: 550px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+button{
+    height: 30px;
+    margin-top: 50px;
+}
+
+p{
+    margin-top: 60px;
+}
+
+h3{
+    margin-top: 50px;
+}
+
+.color{
+    color: red;
+}
